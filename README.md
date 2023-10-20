@@ -1,4 +1,4 @@
-- 👋 Hi! My name is Sarah Mathon (@smathon36) and I'm passionate about full stack web development using React, Node.js, and MongoDB.
+- 👋 Hi! My name is John Smith (@smathon36) and I'm passionate about full stack web development using React, Node.js, and MongoDB.
 
 - 👀 I'm interested in exploring new technologies and improving my skills with data visualization tools such as D3.js and Tableau.
 
